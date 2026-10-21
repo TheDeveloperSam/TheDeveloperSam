@@ -43,7 +43,7 @@ I’m a developer who enjoys building websites, apps, tools, bots, and interacti
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat-square\&logo=roblox\&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat-square\&logo=roblox studios\&logoColor=white)
 
 ---
 
